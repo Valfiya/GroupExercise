@@ -1,6 +1,9 @@
 
+ 
 public class Calculator {
-	float x;
-	float y;
+	public static void main(String[] args) {
 
+	System.out.println("HELLO");
+	}
 }
+
